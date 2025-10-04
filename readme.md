@@ -1,3 +1,3 @@
 ## Hello GIT!!!
 
-I'm adding this from 'feature-name'
+- I'm adding this from `feature-name` branch
