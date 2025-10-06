@@ -1,5 +1,6 @@
 ## Welcome to git!
 
--This is coming from `dev-jackson`
+- yo, Johnny here!
+- This is coming from `dev-jackson`
 
-- I'm adding this from `feature-name`
+- I'm adding this from `feature-name` branch
